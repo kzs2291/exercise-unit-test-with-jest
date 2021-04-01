@@ -19,3 +19,6 @@
 !/.learn/assets/**
 !/.learn/exercises
 !/.learn/exercises/**
+!app.js
+!test.js
+!package.json
